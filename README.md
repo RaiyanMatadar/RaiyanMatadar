@@ -52,16 +52,10 @@ I'm a self-directed full stack developer focused on building clean, functional w
 
 <br/>
 
-### Recent activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-> _Powered by [GitHub Activity Readme](https://github.com/jamesgeorge007/github-activity-readme) — set up the workflow to auto-update this section._
 
 ---
 
-### Connect
+### Connect with me 
 
 <a href="YOUR_LINKEDIN_URL_HERE">
   <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
