@@ -68,6 +68,6 @@ I'm a self-directed full stack developer focused on building clean, functional w
 ### Employer?
 
 > [!IMPORTANT]
-> <a href="https://drive.google.com/file/d/1szEQxZPS6O8aXiX0pIavvajktChhzO7c/view?usp=drive_link" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1OjztrpINkp4qp9ZaN68Z_ORk78lBvxIo/view?usp=sharing" download>Download my resume</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=04d9&height=120&section=footer" alt="footer"/>
